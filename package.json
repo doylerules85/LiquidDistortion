@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ev-emitter": "^1.1.1"
+  }
+}
